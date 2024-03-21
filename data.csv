@@ -1,0 +1,26 @@
+----------PONTO DE PARTIDA-----------------
+Nome: Skipper, Zagrebačka ulica 2, 51550 Mali Lošinj, Croatia
+----------ESTATISTICAS-----------------
+Número de atrações: 2
+Distância média do ponto de partida: 17.78152382208834 Km
+Categoria mais comum: accommodation
+----------ATRAÇÃO 1-----------------
+Nome: Mare Mare Suites
+País: Croatia
+Localização: 44.5363112 | 14.465761
+Categorias: ['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']
+Distância do ponto de partida: 5.979005302996541 Km
+Endereço: Mare Mare Suites, Riva Lošinjskih Kapetana 35,36, 51550 Mali Lošinj, Croatia
+Fuso Horario: Europe/Zagreb
+Horario atual: 20:14 18/12/23
+Moedas: ['EUR']
+----------ATRAÇÃO 2-----------------
+Nome: Hostel Zlatokrila
+País: Croatia
+Localização: 44.52116875 | 14.50373859078497
+Categorias: ['accommodation', 'accommodation.hostel', 'building', 'building.accommodation', 'internet_access']
+Distância do ponto de partida: 29.584042341180133 Km
+Endereço: Hostel Zlatokrila, Kaciol 26, 51551 Veli Lošinj, Croatia
+Fuso Horario: Europe/Zagreb
+Horario atual: 20:14 18/12/23
+Moedas: ['EUR']
